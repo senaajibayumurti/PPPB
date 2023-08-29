@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PPPB Tugas Log In</string>
+    <string name="login">Log In</string>
+    <string name="email">E-Mail:</string>
+    <string name="cthEmail">jontor@example.com</string>
+    <string name="password">Password:</string>
+    <string name="cthPass">Your Password</string>
+</resources>
